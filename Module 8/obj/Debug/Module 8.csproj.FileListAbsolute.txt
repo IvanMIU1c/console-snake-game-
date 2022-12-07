@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\Module 8\Module 8\bin\Debug\Module 8.exe.config
+C:\Users\ivanm\source\repos\Module 8\Module 8\bin\Debug\Module 8.exe
+C:\Users\ivanm\source\repos\Module 8\Module 8\bin\Debug\Module 8.pdb
+C:\Users\ivanm\source\repos\Module 8\Module 8\obj\Debug\Module 8.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\Module 8\Module 8\obj\Debug\Module 8.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Module 8\Module 8\obj\Debug\Module 8.exe
+C:\Users\ivanm\source\repos\Module 8\Module 8\obj\Debug\Module 8.pdb
